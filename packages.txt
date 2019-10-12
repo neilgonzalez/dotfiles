@@ -1,0 +1,10 @@
+https://github.com/FabrizioFubelli/black-widow
+https://github.com/Dionach/CMSmap
+https://www.arachni-scanner.com/
+https://github.com/m4ll0k/Atlas
+https://github.com/mrwn007/M3M0
+https://github.com/bharshbarger/AutOSINT
+https://github.com/3xp10it/xwaf
+https://github.com/fgeek/pyfiscan
+https://github.com/1N3/findsploit
+https://github.com/threat9/routersploit
